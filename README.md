@@ -4,7 +4,7 @@ Admin Access: Username: admin Password: admin123
 Running Steps
 
 First step: Open your XAMPP/WAMP's Control Panel and start the Apache and MySQL. 
-Second StepExtract the downloaded source code zip file.
+Second Step: Extract the downloaded source code zip file and give a name of "banking".
 Third Step:If you are using XAMPP, copy the extracted source code folder and paste it into the XAMPP's "htdocs" directory.
 And If you are using WAMP, paste it into the "www" directory. 
 Fourth Step: Browse the PHPMyAdmin in a browser. i.e. http://localhost/phpmyadmin
